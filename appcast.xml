@@ -7,8 +7,16 @@
         <item>
             <title>Version 1.1.1</title>
             <sparkle:releaseNotesLink>
-                https://github.com/abdulazizmalikov18/tmed/
+                https://github.com/abdulazizmalikov18/tmed/blob/main/index.html
             </sparkle:releaseNotesLink>
+            <description>
+                <![CDATA[ 
+                    <ul> 
+                        <li>Nimagap Ukam</li>
+                        <li>Tinchmi Ukam</li>
+                    </ul> 
+                ]]>
+            </description>
             <pubDate>Sun, 16 Feb 2024 12:00:00 +0800</pubDate>
             <enclosure url="https://github.com/abdulazizmalikov18/tmed/releases/download/Work/TMED.DOCTOR.exe"
                 sparkle:dsaSignature="MD0CHCd3bQvforJZ3OrGSaXCtWuLWtOuHqFi+ZMvMwECHQCUqT23Sf2YQPwKziwZIEtCG634yh0GXSiDwqMJ"
