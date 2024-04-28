@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
-        <title>TMED WORK</title>
-        <description>Most recent updates to TMED WORK</description>
+        <title>TMED DOCTOR</title>
+        <description>Most recent updates to TMED DOCTOR</description>
         <language>en</language>
         <item>
-            <title>Version 1.1.1</title>
+            <title>Version 1.0.0+2</title>
             <sparkle:releaseNotesLink>
                 https://github.com/abdulazizmalikov18/tmed/blob/main/index.html
             </sparkle:releaseNotesLink>
@@ -18,9 +18,9 @@
                 ]]>
             </description>
             <pubDate>Sun, 16 Feb 2024 12:00:00 +0800</pubDate>
-            <enclosure url="https://github.com/abdulazizmalikov18/tmed/releases/download/Work/TMED.DOCTOR.exe"
-                sparkle:dsaSignature="MD0CHCd3bQvforJZ3OrGSaXCtWuLWtOuHqFi+ZMvMwECHQCUqT23Sf2YQPwKziwZIEtCG634yh0GXSiDwqMJ"
-                sparkle:version="1.1.1.4"
+            <enclosure url="https://github.com/abdulazizmalikov18/tmed/releases/download/Work/dwed_work_new_ui-1.0.0+2-windows-setup.exe"
+                sparkle:dsaSignature="MDwCHCi5OgvpKBZjRI2S9Oov3ePAjxLZOUgIO05NaH8CHBpkRIJ5HMz/1m8Bl+0fKsoepQ5gZJTidwIvfc4="
+                sparkle:version="1.0.0+2"
                 sparkle:os="windows"
                 length="0"
                 type="application/octet-stream" />
