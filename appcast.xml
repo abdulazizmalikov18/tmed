@@ -5,19 +5,19 @@
         <description>Most recent updates to TMED DOCTOR</description>
         <language>en</language>
         <item>
-            <title>Version 1.0.1+1</title>
+            <title>Version 1.0.1+2</title>
             <description>
                 <![CDATA[ 
                     <ul> 
-                        <li>Auto update Ukam 2</li>
+                        <li>Auto update Ukam 3</li>
                         <li>Tinchmi Ukam 3</li>
                     </ul> 
                 ]]>
             </description>
             <pubDate>Sun, 16 Feb 2024 12:00:00 +0800</pubDate>
-            <enclosure url="https://github.com/abdulazizmalikov18/tmed/releases/download/Work/dwed_work_new_ui-1.0.1+1-windows-setup.exe"
-                sparkle:dsaSignature="MD4CHQC68oHyZLS7f5R0vYA2YOCeour4KKoO/YrBxgLlAh0Az3W1xKse1xf4aAyl2FEVy7j5GENqSWGj0ANMxw=="
-                sparkle:version="1.0.1+1"
+            <enclosure url="https://github.com/abdulazizmalikov18/tmed/releases/download/Work/dwed_work_new_ui-1.0.1+2-windows-setup.exe"
+                sparkle:dsaSignature="MD0CHQCKe1HmdXnYozqiV7MmZpXTFjyeFiFL0zqcuoSfAhxyjcVwy/HbN54fP/RnSGDy2cJwNDaHkOWTnxgs"
+                sparkle:version="1.0.1+2"
                 sparkle:os="windows"
                 length="0"
                 type="application/octet-stream" />
