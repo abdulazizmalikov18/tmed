@@ -6,6 +6,7 @@
         <language>en</language>
         <item>
             <title>Version 1.0.1+6</title>
+            <appId>com.dwed.kassaDwed</appId>
             <description>
                  <ul> 
                         <li>Auto update Ukam 6</li>
